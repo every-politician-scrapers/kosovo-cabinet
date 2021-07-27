@@ -1,8 +1,9 @@
 GIT
   remote: https://github.com/tmtmtmtm/every-politician-scraper.git
-  revision: 803b80dfa64b5a2d9fbde01d872eefeb5acb593d
+  revision: 36d7ab3824e5949f7e656454fe1995488f14165d
+  branch: main
   specs:
-    every-politician-scraper (0.0.9)
+    every-politician-scraper (0.0.12)
       daff (~> 1.3.0)
       scraped (~> 0.5)
 
@@ -15,9 +16,7 @@ GEM
     field_serializer (0.3.0)
     kwalify (0.7.2)
     method_source (1.0.0)
-    mini_portile2 (2.5.3)
-    nokogiri (1.11.7)
-      mini_portile2 (~> 2.5.0)
+    nokogiri (1.11.7-x86_64-darwin)
       racc (~> 1.4)
     open-uri-cached (0.0.5)
     parallel (1.20.1)
@@ -57,10 +56,10 @@ GEM
     unicode-display_width (1.7.0)
 
 PLATFORMS
-  ruby
+  x86_64-darwin-17
 
 DEPENDENCIES
-  every-politician-scraper (~> 0.0.9)!
+  every-politician-scraper (~> 0.0.12)!
   open-uri-cached
   pry
   rake
@@ -71,4 +70,4 @@ RUBY VERSION
    ruby 2.6.6p146
 
 BUNDLED WITH
-   1.17.2
+   2.2.24
