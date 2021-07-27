@@ -13,12 +13,14 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.6
+    - name: Install moreutils for ifne
+      run: sudo apt-get install moreutils
     - name: Install dependencies
       run: bundle install
     - name: Scrape official site
-      run: bundle exec ruby bin/scraper/official.rb | tee data/official.csv
+      run: bundle exec ruby bin/scraper/official.rb | ifne tee data/official.csv
     - name: Get current wikidata list
-      run: bundle exec ruby bin/scraper/wikidata.rb meta.json | tee data/wikidata.csv
+      run: bundle exec ruby bin/scraper/wikidata.rb meta.json | ifne tee data/wikidata.csv
     - name: Generate diff
       run: bundle exec ruby bin/diff.rb | tee data/diff.csv
     - name: Commit and push changed data
