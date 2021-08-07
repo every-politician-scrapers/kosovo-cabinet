@@ -1,4 +1,8 @@
 // wd create-entity create-office.js "Minister for X"
+const fs = require('fs');
+let rawmeta = fs.readFileSync('meta.json');
+let meta = JSON.parse(rawmeta);
+
 module.exports = (label) => {
   return {
     type: 'item',
@@ -6,18 +10,16 @@ module.exports = (label) => {
       en: label,
     },
     descriptions: {
-      en: 'Cabinet position in Kosovo',
+      en: `cabinet position in ${meta.jurisdiction.name}`,
     },
     claims: {
       P31:   { value: 'Q294414' }, // instance of: public office
       P279:  { value: 'Q83307'  }, // subclas of: minister
-      P17:   { value: 'Q1246'   }, // country: Kosovo
-      P1001: { value: 'Q1246'   }, // jurisdiction: Kosovo
-      P361: {                      // part of: Cabinet of Kosovo
-        value: 'Q107600990',
-        references: {
-          P854: 'https://kryeministri.rks-gov.net/en/the-prime-minister/government-cabinet/'
-        },
+      P17:   { value: meta.country ? meta.country.id : meta.jurisdiction.id },
+      P1001: { value: meta.jurisdiction.id },
+      P361: { // part of
+        value: meta.cabinet.parent,
+        references: { P854: meta.source.url },
       }
     }
   }
