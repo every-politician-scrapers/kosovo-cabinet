@@ -3,6 +3,7 @@ name: Mirror official site
 on:
   schedule:
     - cron:  '14 1 * * *'
+  workflow_dispatch: {}
 
 jobs:
   scheduled:
@@ -12,7 +13,7 @@ jobs:
     - name: Install OS dependencies
       run: sudo apt-get install jq moreutils
     - name: Mirror official site
-      run: curl -o html/official.html $(jq -r .source.url meta.json)
+      run: curl -L -c /tmp/cookies -o html/official.html -A eps/1.2 $(jq -r .source.url meta.json)
     - name: Commit and push if changed
       run: |-
         git config user.name "Automated"
