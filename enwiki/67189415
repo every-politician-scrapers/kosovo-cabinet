@@ -1,0 +1,258 @@
+{
+  "title": "Donika Gërvalla-Schwarz",
+  "pageID": 67189415,
+  "categories": [
+    "1971 births",
+    "Democratic League of Kosovo politicians",
+    "Female foreign ministers",
+    "Kosovo Albanians",
+    "Kosovan expatriates in Albania",
+    "Kosovan expatriates in Germany",
+    "Kosovan women in politics",
+    "Living people",
+    "Politicians from Pristina",
+    "Politicians from Tirana",
+    "University of Hamburg alumni",
+    "Foreign ministers of Kosovo",
+    "21st-century women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Donika Gërvalla-Schwarz (born 16 October 1971) is a Kosovar Albanian musician and politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kosovar Albanian"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Donika Gërvalla-Schwarz"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Guxo political list of the Vetëvendosje political party, she has served as Minister of Foreign Affairs and Second Deputy Prime Minister in the Second Kurti cabinet since 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guxo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vetëvendosje"
+                },
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Kosovo)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Second Kurti cabinet"
+                }
+              ]
+            },
+            {
+              "text": "Gërvalla-Schwarz is the daughter of assassinated Albanian activist Jusuf Gërvalla.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jusuf Gërvalla"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kosovan politician",
+          "template": "short description"
+        },
+        {
+          "year": "1971",
+          "month": "10",
+          "day": "16",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Donika Gërvalla-Schwarz"
+          },
+          "image": {
+            "text": "Donika Gërvalla-Schwarz (2021).jpg"
+          },
+          "caption": {
+            "text": "Gërvalla-Schwarz in the Europa-Forum Wachau, June 2021",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Europa-Forum Wachau"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Second Deputy Prime Minister of Kosovo"
+          },
+          "primeminister1": {
+            "text": "Albin Kurti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albin Kurti"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Glauk Konjufca (Acting) Vjosa Osmani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Glauk Konjufca"
+              },
+              {
+                "type": "internal",
+                "page": "Vjosa Osmani"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "22 March 2021"
+          },
+          "predecessor1": {
+            "text": "Driton Selmanaj",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Driton Selmanaj"
+              }
+            ]
+          },
+          "office2": {
+            "text": "8th Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Kosovo)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Albin Kurti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albin Kurti"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Glauk Konjufca (Acting) Vjosa Osmani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Glauk Konjufca"
+              },
+              {
+                "type": "internal",
+                "page": "Vjosa Osmani"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "22 March 2021"
+          },
+          "predecessor2": {
+            "text": "Meliza Haradinaj-Stublla\nBesnik Tahiri (Acting)"
+          },
+          "birth_name": {
+            "text": "Donika Gërvalla"
+          },
+          "birth_date": {
+            "text": "October 16, 1971"
+          },
+          "birth_place": {
+            "text": "Skopje, SR Macedonia, SFR Yugoslavia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Skopje"
+              },
+              {
+                "text": "SR Macedonia",
+                "type": "internal",
+                "page": "Socialist Republic of Macedonia"
+              },
+              {
+                "text": "SFR Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "party": {
+            "text": "Guxo (2021–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guxo"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Democratic League of Kosovo (until 2020)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democratic League of Kosovo"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Stefan Schwarz",
+            "links": [
+              {
+                "text": "Stefan Schwarz",
+                "type": "internal",
+                "page": ":de:Stefan Schwarz (Politiker)"
+              }
+            ]
+          },
+          "father": {
+            "text": "Jusuf Gërvalla",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jusuf Gërvalla"
+              }
+            ]
+          },
+          "children": {
+            "text": "5",
+            "number": 5
+          },
+          "alma_mater": {
+            "text": "University of Hamburg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Hamburg"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

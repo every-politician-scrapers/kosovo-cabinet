@@ -1,0 +1,133 @@
+{
+  "title": "Arbërie Nagavci",
+  "pageID": 67327172,
+  "categories": [
+    "Members of the Assembly of the Republic of Kosovo",
+    "Women government ministers of Kosovo",
+    "Ministers of Education, Science and Technology (Kosovo)",
+    "Vetëvendosje politicians",
+    "Living people",
+    "1970 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Arbërie Nagavci is an Kosovo-Albanian politician, Vetëvendosje member and current Minister of Education, Science and Technology.",
+              "links": [
+                {
+                  "text": "Kosovo-Albanian",
+                  "type": "internal",
+                  "page": "Kosovo-Albanians"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vetëvendosje"
+                },
+                {
+                  "text": "Minister of Education, Science and Technology",
+                  "type": "internal",
+                  "page": "Ministry of Education, Science and Technology (Kosovo)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Arbërie Nagavci"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Albanian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Arbërie Nagavci"
+          },
+          "image": {
+            "text": "Arberie Nagavci.jpg"
+          },
+          "office": {
+            "text": "Minister of Education, Science and Technology",
+            "links": [
+              {
+                "text": "Minister of Education, Science and Technology",
+                "type": "internal",
+                "page": "Ministry of Education, Science and Technology (Kosovo)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Vjosa Osmani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vjosa Osmani"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Albin Kurti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albin Kurti"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "22 March 2021"
+          },
+          "birth_date": {
+            "text": "March 29, 1970"
+          },
+          "birth_place": {
+            "text": "Đakovica, Yugoslavia now Gjakova, Kosovo",
+            "links": [
+              {
+                "text": "Đakovica",
+                "type": "internal",
+                "page": "Đakovica"
+              },
+              {
+                "text": "Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "party": {
+            "text": "Vetëvendosje",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vetëvendosje"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "profilet/arberie-nagavci",
+          "url": "https://www.vetevendosje.org/profilet/arberie-nagavci/",
+          "website": "vetevendosje",
+          "accessdate": "5 April 2020",
+          "language": "Albanian",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

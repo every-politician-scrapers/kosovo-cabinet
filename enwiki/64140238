@@ -1,0 +1,293 @@
+{
+  "title": "Goran Rakić",
+  "pageID": 64140238,
+  "categories": [
+    "Politicians from Mitrovica, Kosovo",
+    "1971 births",
+    "Living people",
+    "Serbian politicians",
+    "Kosovo Serbs",
+    "Kosovan politicians",
+    "Serbian Progressive Party politicians",
+    "Government ministers of Kosovo",
+    "Mayors of places in Serbia",
+    "Mayors of places in Kosovo"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Goran Rakić (, ; born 1971) is a Kosovo Serb politician who is currently serving as Minister for Communities and Returns in the Government of Kosovo since 22 March 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kosovo Serb"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Kosovo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Goran Rakić"
+                ]
+              }
+            },
+            {
+              "text": "Prior to this, he served as the Deputy Prime Minister of Kosovo and as the Minister of Administration and Local Government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Kosovo"
+                }
+              ]
+            },
+            {
+              "text": "He is a former mayor of North Mitrovica and the current president of the Serb List, an ethnic Serb minority political party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "North Mitrovica"
+                },
+                {
+                  "text": "Serb List",
+                  "type": "internal",
+                  "page": "Serb List (Kosovo)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kosovo Serb politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "birth_year": "1971",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "Горан Ракић"
+          ],
+          "template": "lang-sr-cyrl"
+        },
+        {
+          "list": [
+            "Goran Rakiq"
+          ],
+          "template": "lang-al"
+        },
+        {
+          "list": [
+            ""
+          ],
+          "name": "status",
+          "template": "efn"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Goran Rakić"
+          },
+          "birth_place": {
+            "text": "Titova Mitrovica, SR Serbia, SFR Yugoslavia (now Kosovo)",
+            "links": [
+              {
+                "text": "Titova Mitrovica",
+                "type": "internal",
+                "page": "Mitrovica, Kosovo"
+              },
+              {
+                "type": "internal",
+                "page": "SR Serbia"
+              },
+              {
+                "type": "internal",
+                "page": "SFR Yugoslavia"
+              },
+              {
+                "type": "internal",
+                "page": "Kosovo"
+              }
+            ]
+          },
+          "native_name": {
+            "text": "Горан Ракић"
+          },
+          "party": {
+            "text": "Serb List",
+            "links": [
+              {
+                "text": "Serb List",
+                "type": "internal",
+                "page": "Serb List (Kosovo)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Priština",
+            "links": [
+              {
+                "text": "University of Priština",
+                "type": "internal",
+                "page": "University of Priština (North Mitrovica)"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "nationality": {
+            "text": "Kosovan · Serbian"
+          },
+          "birth_date": {
+            "text": "1971 (age 50)"
+          },
+          "caption": {
+            "text": "Goran Rakić in March 2021"
+          },
+          "image": {
+            "text": "Minister Goran Rakić (cropped).jpg"
+          },
+          "otherparty": {
+            "text": "Serbian Progressive Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Serbian Progressive Party"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister for Communities and Returns"
+          },
+          "term_start": {
+            "text": "22 March 2021"
+          },
+          "primeminister": {
+            "text": "Albin Kurti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albin Kurti"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Dalibor Jevtić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dalibor Jevtić"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Prime Minister of Kosovo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kosovo"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "3 June 2020"
+          },
+          "term_end1": {
+            "text": "22 March 2021"
+          },
+          "primeminister1": {
+            "text": "Avdullah Hoti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Avdullah Hoti"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Emilija Redžepi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emilija Redžepi"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Administration and Local Government"
+          },
+          "term_start2": {
+            "text": "3 June 2020"
+          },
+          "term_end2": {
+            "text": "22 March 2021"
+          },
+          "primeminister2": {
+            "text": "Avdullah Hoti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Avdullah Hoti"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Emilija Redžepi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emilija Redžepi"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Elbert Krasniqi"
+          },
+          "office3": {
+            "text": "Mayor of North Mitrovica",
+            "links": [
+              {
+                "type": "internal",
+                "page": "North Mitrovica"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "23 February 2014"
+          },
+          "term_end3": {
+            "text": "3 June 2020"
+          },
+          "predecessor3": {
+            "text": "Krstimir Pantić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Krstimir Pantić"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Aleksandar Spirić (acting)"
+          }
+        }
+      ]
+    }
+  ]
+}
