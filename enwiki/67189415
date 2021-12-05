@@ -224,8 +224,11 @@
             "links": [
               {
                 "text": "Stefan Schwarz",
-                "type": "internal",
-                "page": ":de:Stefan Schwarz (Politiker)"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "de"
+                }
               }
             ]
           },
