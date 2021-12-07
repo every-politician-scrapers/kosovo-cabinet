@@ -154,6 +154,9 @@
           "term_start": {
             "text": "26 December 2013"
           },
+          "term_end": {
+            "text": "7 December 2021"
+          },
           "predecessor": {
             "text": "Isa Mustafa",
             "links": [
@@ -164,7 +167,7 @@
             ]
           },
           "successor": {
-            "text": "Përparim Rama (elect)",
+            "text": "Përparim Rama",
             "links": [
               {
                 "type": "internal",
