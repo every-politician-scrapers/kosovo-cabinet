@@ -38,7 +38,7 @@ jobs:
         committer: GitHub <noreply@github.com>
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
-        branch: pcb
+        branch: pcbuild
         delete-branch: true
         title: 'Update current.csv'
         body: ${{ steps.get-pr-body.outputs.body }}
