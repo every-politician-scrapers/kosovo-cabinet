@@ -1,4 +1,11 @@
 GIT
+  remote: https://github.com/everypolitician/table_unspanner.git
+  revision: 238e7f90a8ff00f155cd60b811a89fc79a45b4fc
+  specs:
+    table_unspanner (0.1.1)
+      nokogiri
+
+GIT
   remote: https://github.com/everypolitician/wikidata_ids_decorator.git
   revision: 17265d480df935631957a8188de38bdd42cbd29f
   specs:
@@ -9,10 +16,10 @@ GIT
 
 GIT
   remote: https://github.com/tmtmtmtm/every-politician-scraper.git
-  revision: 69859d2d43ae6104395ab1423c16c89f8feacdd7
+  revision: 907837cf88de9cf10f5df0cab6f79bb261429f47
   branch: main
   specs:
-    every-politician-scraper (0.1.13)
+    every-politician-scraper (0.1.16)
       daff (~> 1.3.0)
       scraped (~> 0.5)
 
@@ -129,12 +136,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  every-politician-scraper (= 0.1.13)!
+  every-politician-scraper (= 0.1.16)!
   open-uri-cached
   pry
   rake
   reek (~> 6.0)
   rubocop (~> 0.89)
+  table_unspanner!
   wikidata_ids_decorator!
 
 RUBY VERSION
