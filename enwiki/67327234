@@ -103,27 +103,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Liburn_Aliu",
-          "url": "https://sq.wikipedia.org/wiki/Liburn_Aliu",
-          "website": "wikipedia",
-          "accessdate": "5 April 2020",
-          "language": "Albanian",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-04-06",
-          "title": "Dështon seanca ku i akuzuar është Liburn Aliu",
-          "url": "https://kallxo.com/lajm/deshton-seanca-ku-i-akuzuar-eshte-liburn-aliu/",
-          "access-date": "2021-04-07",
-          "website": "Raporto Korrupsionin! KALLXO.com",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
