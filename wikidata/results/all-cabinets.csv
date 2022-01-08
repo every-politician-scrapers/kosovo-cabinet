@@ -1,5 +1,5 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q60755044,Haradinaj Cabinet,2017-09-09,11,,,2020-02-03,11,,,Q107600990,Cabinet of Kosovo,,,,,Q85775139,Kurti Cabinet,,,,
-,Q85775139,Kurti Cabinet,2020-02-03,11,,,2020-06-03,11,,,Q107600990,Cabinet of Kosovo,,,Q60755044,Haradinaj Cabinet,Q96418577,Hoti cabinet,,,,
-,Q96418577,Hoti cabinet,2020-06-03,11,,,2021-03-22,11,,,Q107600990,Cabinet of Kosovo,,,Q85775139,Kurti Cabinet,Q106131506,Second Kurti cabinet,,,,
-,Q106131506,Second Kurti cabinet,2021-03-22,11,,,,,,,Q107600990,Cabinet of Kosovo,,,Q96418577,Hoti cabinet,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q60755044,Haradinaj Cabinet,2017-09-09,11,,,2020-02-03,11,,,,,Q85775139,Kurti Cabinet,,,,
+,Q85775139,Kurti Cabinet,2020-02-03,11,,,2020-06-03,11,,,Q60755044,Haradinaj Cabinet,Q96418577,Hoti cabinet,,,,
+,Q96418577,Hoti cabinet,2020-06-03,11,,,2021-03-22,11,,,Q85775139,Kurti Cabinet,Q106131506,Second Kurti cabinet,,,,
+,Q106131506,Second Kurti cabinet,2021-03-22,11,,,,,,,Q96418577,Hoti cabinet,,,,,,
