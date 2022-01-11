@@ -103,7 +103,7 @@
             "text": "Goran Rakić"
           },
           "birth_place": {
-            "text": "Titova Mitrovica, SR Serbia, SFR Yugoslavia (now Kosovo)",
+            "text": "Titova Mitrovica, SR Serbia, SFR Yugoslavia (now Serbia)",
             "links": [
               {
                 "text": "Titova Mitrovica",
@@ -117,10 +117,6 @@
               {
                 "type": "internal",
                 "page": "SFR Yugoslavia"
-              },
-              {
-                "type": "internal",
-                "page": "Kosovo"
               }
             ]
           },
