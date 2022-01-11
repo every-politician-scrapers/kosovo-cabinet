@@ -1,782 +1,120 @@
 <!DOCTYPE html>
-<html>
-
+<html dir='ltr'>
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="apple-mobile-web-app-title" content="">
-    <meta name="format-detection" content="telephone=no">
-    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'/>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width">
+			<title>Database Error</title>
+	<style type="text/css">
+		html {
+			background: #f1f1f1;
+		}
+		body {
+			background: #fff;
+			border: 1px solid #ccd0d4;
+			color: #444;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+			margin: 2em auto;
+			padding: 1em 2em;
+			max-width: 700px;
+			-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+			box-shadow: 0 1px 1px rgba(0, 0, 0, .04);
+		}
+		h1 {
+			border-bottom: 1px solid #dadada;
+			clear: both;
+			color: #666;
+			font-size: 24px;
+			margin: 30px 0 0 0;
+			padding: 0;
+			padding-bottom: 7px;
+		}
+		#error-page {
+			margin-top: 50px;
+		}
+		#error-page p,
+		#error-page .wp-die-message {
+			font-size: 14px;
+			line-height: 1.5;
+			margin: 25px 0 20px;
+		}
+		#error-page code {
+			font-family: Consolas, Monaco, monospace;
+		}
+		ul li {
+			margin-bottom: 10px;
+			font-size: 14px ;
+		}
+		a {
+			color: #0073aa;
+		}
+		a:hover,
+		a:active {
+			color: #006799;
+		}
+		a:focus {
+			color: #124964;
+			-webkit-box-shadow:
+				0 0 0 1px #5b9dd9,
+				0 0 2px 1px rgba(30, 140, 190, 0.8);
+			box-shadow:
+				0 0 0 1px #5b9dd9,
+				0 0 2px 1px rgba(30, 140, 190, 0.8);
+			outline: none;
+		}
+		.button {
+			background: #f3f5f6;
+			border: 1px solid #016087;
+			color: #016087;
+			display: inline-block;
+			text-decoration: none;
+			font-size: 13px;
+			line-height: 2;
+			height: 28px;
+			margin: 0;
+			padding: 0 10px 1px;
+			cursor: pointer;
+			-webkit-border-radius: 3px;
+			-webkit-appearance: none;
+			border-radius: 3px;
+			white-space: nowrap;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing:    border-box;
+			box-sizing:         border-box;
 
+			vertical-align: top;
+		}
 
-    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-<link rel="alternate" hreflang="sq" href="https://kryeministri.rks-gov.net/kryeministri/kabineti-qeveritar/" />
-<link rel="alternate" hreflang="en" href="https://kryeministri.rks-gov.net/en/the-prime-minister/government-cabinet/" />
-<link rel="alternate" hreflang="sr" href="https://kryeministri.rks-gov.net/sr/premijer/sastav-vlade/" />
+		.button.button-large {
+			line-height: 2.30769231;
+			min-height: 32px;
+			padding: 0 12px;
+		}
 
-	<!-- This site is optimized with the Yoast SEO plugin v16.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Government cabinet - Office of the Prime Minister</title>
-	<meta name="description" content="Zyra e Kryeministrit te Kosoves" />
-	<link rel="canonical" href="https://kryeministri-ks.net/en/the-prime-minister/government-cabinet/" />
-	<meta property="og:locale" content="en_US" />
-	<meta property="og:type" content="article" />
-	<meta property="og:title" content="Government cabinet - Office of the Prime Minister" />
-	<meta property="og:description" content="Zyra e Kryeministrit te Kosoves" />
-	<meta property="og:url" content="https://kryeministri-ks.net/en/the-prime-minister/government-cabinet/" />
-	<meta property="og:site_name" content="Office of the Prime Minister" />
-	<meta property="article:publisher" content="https://www.facebook.com/albini2017" />
-	<meta property="article:modified_time" content="2020-10-07T15:34:07+00:00" />
-	<meta property="og:image" content="https://kryeministri.rks-gov.net/wp-content/uploads/2020/03/default-image1.png" />
-	<meta property="og:image:width" content="1920" />
-	<meta property="og:image:height" content="922" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:site" content="@albinkurti" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://kryeministri-ks.net/en/#website","url":"https://kryeministri-ks.net/en/","name":"Office of the Prime Minister","description":"Albin Kurti","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://kryeministri-ks.net/en/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://kryeministri-ks.net/en/the-prime-minister/government-cabinet/#webpage","url":"https://kryeministri-ks.net/en/the-prime-minister/government-cabinet/","name":"Government cabinet - Office of the Prime Minister","isPartOf":{"@id":"https://kryeministri-ks.net/en/#website"},"datePublished":"2020-09-29T14:20:05+00:00","dateModified":"2020-10-07T15:34:07+00:00","description":"Zyra e Kryeministrit te Kosoves","breadcrumb":{"@id":"https://kryeministri-ks.net/en/the-prime-minister/government-cabinet/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://kryeministri-ks.net/en/the-prime-minister/government-cabinet/"]}]},{"@type":"BreadcrumbList","@id":"https://kryeministri-ks.net/en/the-prime-minister/government-cabinet/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://kryeministri.rks-gov.net/en/"},{"@type":"ListItem","position":2,"name":"The Prime Minister","item":"https://kryeministri-ks.net/en/the-prime-minister/"},{"@type":"ListItem","position":3,"name":"Government cabinet"}]}]}</script>
-	<!-- / Yoast SEO plugin. -->
+		.button:hover,
+		.button:focus {
+			background: #f1f1f1;
+		}
 
+		.button:focus {
+			background: #f3f5f6;
+			border-color: #007cba;
+			-webkit-box-shadow: 0 0 0 1px #007cba;
+			box-shadow: 0 0 0 1px #007cba;
+			color: #016087;
+			outline: 2px solid transparent;
+			outline-offset: 0;
+		}
 
-<link rel='dns-prefetch' href='//s.w.org' />
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/kryeministri.rks-gov.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
-			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-	<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://kryeministri.rks-gov.net/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css'  href='https://kryeministri.rks-gov.net/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='https://kryeministri.rks-gov.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='owl-style-css'  href='https://kryeministri.rks-gov.net/front/inc/css/vendor/owl.carousel.min.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='ui-css-css'  href='https://kryeministri.rks-gov.net/front/inc/css/vendor/jquery-ui.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='mmenu-css-css'  href='https://kryeministri.rks-gov.net/front/inc/css/vendor/jquery.mmenu.all.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='chosen-style-css'  href='https://kryeministri.rks-gov.net/front/inc/css/vendor/chosen.min.css?ver=5.7.2' type='text/css' media='all' />
-<link rel='stylesheet' id='main-style-css'  href='https://kryeministri.rks-gov.net/front/inc/css/style.css?ver=5.7.2' type='text/css' media='all' />
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script type='text/javascript' id='email-posts-to-subscribers-js-extra'>
-/* <![CDATA[ */
-var elp_data = {"messages":{"elp_name_required":"Please enter name.","elp_email_required":"Please enter email address.","elp_invalid_name":"Name seems invalid.","elp_invalid_email":"Email address seems invalid.","elp_unexpected_error":"Oops.. Unexpected error occurred.","elp_invalid_captcha":"Robot verification failed, please try again.","elp_invalid_key":"Robot verification failed, invalid key.","elp_successfull_single":"You have successfully subscribed.","elp_successfull_double":"You have successfully subscribed. You will receive a confirmation email in few minutes. Please follow the link in it to confirm your subscription. If the email takes more than 15 minutes to appear in your mailbox, please check your spam folder.","elp_email_exist":"Email already exist.","elp_email_squeeze":"You are trying to submit too fast. try again in 1 minute."},"elp_ajax_url":"https:\/\/kryeministri.rks-gov.net\/wp-admin\/admin-ajax.php"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/wp-content/plugins/email-posts-to-subscribers//inc/email-posts-to-subscribers.js?ver=2.2' id='email-posts-to-subscribers-js'></script>
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/front/inc/js/vendor/jquery-3.6.0.min.js?ver=1.0' id='rks-jquery-js'></script>
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/front/inc/js/vendor/bootstrap.min.js?ver=1.0' id='rks-bootstrap-js-js'></script>
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/front/inc/js/vendor/owl.carousel.min.js?ver=1.0' id='owl-carousel-js'></script>
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/front/inc/js/vendor/jquery-ui.js?ver=1.0' id='ui-jquery-js'></script>
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/front/inc/js/vendor/jquery.mmenu.all.js?ver=1.0' id='mmenu-js'></script>
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/front/inc/js/vendor/chosen.jquery.min.js?ver=1.0' id='chosen-js-js'></script>
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/front/inc/js/main.js?ver=1.0' id='rks-main-js'></script>
-<link rel="https://api.w.org/" href="https://kryeministri.rks-gov.net/wp-json/" /><link rel="alternate" type="application/json" href="https://kryeministri.rks-gov.net/wp-json/wp/v2/pages/101430" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kryeministri.rks-gov.net/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://kryeministri.rks-gov.net/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.7.2" />
-<link rel='shortlink' href='https://kryeministri.rks-gov.net/en/?p=101430' />
-<link rel="alternate" type="application/json+oembed" href="https://kryeministri.rks-gov.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkryeministri.rks-gov.net%2Fen%2Fthe-prime-minister%2Fgovernment-cabinet%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://kryeministri.rks-gov.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkryeministri.rks-gov.net%2Fen%2Fthe-prime-minister%2Fgovernment-cabinet%2F&#038;format=xml" />
-<meta name="generator" content="WPML ver:4.3.6 stt:49,1,50;" />
-<style>.elp_form_message.success { color: #008000;font-weight: bold; } .elp_form_message.error { color: #ff0000; } .elp_form_message.boterror { color: #ff0000; } </style><script type="text/javascript"> 
+		.button:active {
+			background: #f3f5f6;
+			border-color: #7e8993;
+			-webkit-box-shadow: none;
+			box-shadow: none;
+		}
 
-/**  all layers have to be in this global array - in further process each map will have something like vectorM[map_ol3js_n][layer_n] */
-var vectorM = [[]];
-
-
-/** put translations from PHP/mo to JavaScript */
-var translations = [];
-
-/** global GET-Parameters */
-var HTTP_GET_VARS = [];
-
-</script><!-- OSM plugin V5.8: did not add geo meta tags. --> 
-<link rel="icon" href="https://kryeministri.rks-gov.net/wp-content/uploads/2018/03/Favicon-1-1.png" sizes="32x32" />
-<link rel="icon" href="https://kryeministri.rks-gov.net/wp-content/uploads/2018/03/Favicon-1-1.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://kryeministri.rks-gov.net/wp-content/uploads/2018/03/Favicon-1-1.png" />
-<meta name="msapplication-TileImage" content="https://kryeministri.rks-gov.net/wp-content/uploads/2018/03/Favicon-1-1.png" />
-		<style type="text/css" id="wp-custom-css">
-			.home-fullnews{
-	background-position:center;
-}
-#menu-item-wpml-ls-5-sq {
-    display: none;
-}
-#menu-item-wpml-ls-5-en{
-    display: none;
-}
-#menu-item-wpml-ls-5-sr{
-    display: none;
-}		</style>
-		
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116641165-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-116641165-1',{ 'anonymize_ip': true });
-    </script>
-    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHBMZ7"
-                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-KHBMZ7');</script>
-    <!-- End Google Tag Manager -->
+			</style>
 </head>
-
-<body>
-
-<div id="fb-root"></div>
-<script>(function (d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s);
-        js.id = id;
-        js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-
-<header class="main-header">
-    <div class="top-wrapper">
-        <div class="top-part blue-color">
-            <div class="container second-border-class ">
-                <div class="row no-gutters clearfix second-border-fix">
-                    <div class="col-10 col-md-6">
-                                                <a href="http://kryeministri.rks-gov.net/en/" class="logo secondary">
-                            <img src="https://kryeministri.rks-gov.net/front/inc/images/logo.png">
-                            <span class="logo-title">The Prime Minister Office</span>
-                        </a>
-                    </div>
-                    <div class="col-2 col-md-6 align-right">
-                        <ul class="social-network">
-                                                            <li>
-                                    <a href="https://www.facebook.com/albini2017/" class="fb" target="_blank"></a>
-                                </li>
-                                                            <li>
-                                    <a href="https://twitter.com/albinkurti" class="tw" target="_blank"></a>
-                                </li>
-                                                            <li>
-                                    <a href="https://www.youtube.com/channel/UCx3ZnEUEVC4bZcqYYsTTpAg?" class="yt" target="_blank"></a>
-                                </li>
-                                                    </ul>
-                                                        <ul class="languages">
-                                                                                <li>
-                                                <a href="https://kryeministri.rks-gov.net/kryeministri/kabineti-qeveritar/">sq</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="https://kryeministri.rks-gov.net/en/the-prime-minister/government-cabinet/"
-                                                   class="active">en</a>
-                                            </li>
-                                                                                        <li>
-                                                <a href="https://kryeministri.rks-gov.net/sr/premijer/sastav-vlade/">sr</a>
-                                            </li>
-                                                                            </ul>
-                                                        <div id="hamburger-btn">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-                    <div class="padding-div"></div>
-                </div>
-    <div class="nav-part nav-background">
-        <div class="container">
-            <div class="row no-gutters">
-                <div class="col-xl-10 col-9">
-                    <div class="menu-menyja-al-english-2-container"><ul id="menu-menyja-al-english-2" class="navigation"><li id="menu-item-120323" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-120323"><a>Prime Minister</a>
-<ul class="sub-menu">
-	<li id="menu-item-134398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134398"><a href="https://kryeministri.rks-gov.net/en/biography-of-the-prime-minister/">Biography of the Prime Minister</a></li>
-	<li id="menu-item-120253" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-101430 current_page_item menu-item-120253"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister/government-cabinet/" aria-current="page">Government cabinet</a></li>
-	<li id="menu-item-120257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120257"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister/daily-schedule/">Agenda</a></li>
-	<li id="menu-item-120254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120254"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister/interviews/">Interviews</a></li>
-	<li id="menu-item-120256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120256"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister/write-to-the-prime-minister-office/">Write to the Prime Minister Office</a></li>
-</ul>
-</li>
-<li id="menu-item-120324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-120324"><a>The office of Prime Minister</a>
-<ul class="sub-menu">
-	<li id="menu-item-120209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120209"><a href="https://kryeministri.rks-gov.net/en/?page_id=34525">Secretary General</a></li>
-	<li id="menu-item-120267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-120267"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister-office/offices/">Offices</a></li>
-	<li id="menu-item-120260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-120260"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister-office/agencies/">Agencies</a></li>
-	<li id="menu-item-122370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122370"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister-office/council-for-cooperation-of-the-government-with-civil-society/">Council for Cooperation of the Government with Civil Society</a></li>
-	<li id="menu-item-120266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120266"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister-office/committees/">Committees</a></li>
-</ul>
-</li>
-<li id="menu-item-120284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120284"><a href="https://kryeministri.rks-gov.net/en/news/">News</a></li>
-<li id="menu-item-120285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120285"><a href="https://kryeministri.rks-gov.net/en/documents-en/">Documents</a></li>
-<li id="menu-item-130202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130202"><a href="https://kryeministri.rks-gov.net/en/vacancies/">Vacancies</a></li>
-<li id="menu-item-120286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120286"><a href="https://kryeministri.rks-gov.net/en/contact/">Contact</a></li>
-</ul></div>                </div>
-                <div class="col-xl-2 col-3 align-right">
-                    <form method="get" id="searchform" action="https://kryeministri.rks-gov.net/en/">
-    <input type="search" id="search-input" placeholder='Search the web' class="search-icon"   name="s">
-    <input type="submit" class="submit-icon" id="submit-input" value="">
-</form>
-                </div>
-            </div>
-        </div>
-    </div>
-    <nav id="menu">
-        <div class="menu-menyja-al-english-2-container"><ul id="menu-menyja-al-english-3" class="responsive-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-120323"><a>Prime Minister</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-134398"><a href="https://kryeministri.rks-gov.net/en/biography-of-the-prime-minister/">Biography of the Prime Minister</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-101430 current_page_item menu-item-120253"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister/government-cabinet/" aria-current="page">Government cabinet</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120257"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister/daily-schedule/">Agenda</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120254"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister/interviews/">Interviews</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120256"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister/write-to-the-prime-minister-office/">Write to the Prime Minister Office</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-120324"><a>The office of Prime Minister</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120209"><a href="https://kryeministri.rks-gov.net/en/?page_id=34525">Secretary General</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-120267"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister-office/offices/">Offices</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-120260"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister-office/agencies/">Agencies</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122370"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister-office/council-for-cooperation-of-the-government-with-civil-society/">Council for Cooperation of the Government with Civil Society</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120266"><a href="https://kryeministri.rks-gov.net/en/the-prime-minister-office/committees/">Committees</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120284"><a href="https://kryeministri.rks-gov.net/en/news/">News</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120285"><a href="https://kryeministri.rks-gov.net/en/documents-en/">Documents</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130202"><a href="https://kryeministri.rks-gov.net/en/vacancies/">Vacancies</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120286"><a href="https://kryeministri.rks-gov.net/en/contact/">Contact</a></li>
-</ul></div>
-        <div class="search-mobile">
-            <form method="get" id="searchform" action="https://kryeministri.rks-gov.net/en/">
-                <input type="search" id="search-input" value=''
-                       class="search-input" name="s">
-                <input type="submit" class="search-button" id="submit-input" value="">
-            </form>
-        </div>
-                        <ul class="languages">
-                                                <li>
-                                <a href="https://kryeministri.rks-gov.net/kryeministri/kabineti-qeveritar/">sq</a>
-                            </li>
-                                                        <li>
-                                <a href="https://kryeministri.rks-gov.net/en/the-prime-minister/government-cabinet/"
-                                   class="active">en</a>
-                            </li>
-                                                        <li>
-                                <a href="https://kryeministri.rks-gov.net/sr/premijer/sastav-vlade/">sr</a>
-                            </li>
-                                            </ul>
-                        <div class="social-mobile">
-            <ul class="social-network">
-                                    <li>
-                        <a href="https://www.facebook.com/albini2017/" class="fb" target="_blank"></a>
-                    </li>
-                                    <li>
-                        <a href="https://twitter.com/albinkurti" class="tw" target="_blank"></a>
-                    </li>
-                            </ul>
-        </div>
-    </nav>
-</header>
-
-
-    <div class="after-header">
-    </div>
-    
-<div class="wrapper">    <section class="breadcrumbs-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <nav class="breadcrumb" aria-label="breadcrumbs">
-                        <ul>
-                                                        <li>
-                                <a href="http://kryeministri.rks-gov.net/en/">Ballina</a>
-                            </li>
-                                                            <li>
-                                    <a href="https://kryeministri.rks-gov.net/en/the-prime-minister/">The Prime Minister</a>
-                                </li>
-                                                            <li class="is-active">
-                                <a href="https://kryeministri.rks-gov.net/en/the-prime-minister/government-cabinet/" class="current">Government cabinet</a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="list-section cabinet">
-        <div class="container">
-            <h1 class="intro-title">Government cabinet</h1>
-            <div class="row no-gutters">
-                <div class="col-xl-8 col-lg-12 col-md-12 col-sm-12">
-                                            <div class="members-list">
-                                                        <a href="" class="no-link"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Albin Kurti </h1>
-
-                                            <p class="members-title">
-                                                Prime Minister Republic of Kosovo                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="" class="no-link"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Besnik Bislimi </h1>
-
-                                            <p class="members-title">
-                                                First Deputy Prime Minister for European Integration, Development and Dialogue                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="http://www.mfa-ks.net/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Donika Gërvalla &#8211; Schwarz </h1>
-
-                                            <p class="members-title">
-                                                Second Deputy Prime Minister and Minister of Foreign Affairs and Diaspora                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="" class="no-link"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Emilija Redžepi </h1>
-
-                                            <p class="members-title">
-                                                Third Deputy Prime Minister for Minority Issues and Human Rights                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="https://mf.rks-gov.net/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Hekuran Murati </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Finance, Labor and Transfers                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="https://md.rks-gov.net/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Albulena Haxhiu </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Justice                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="https://mod.rks-gov.net/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Armend Mehaj </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Defense                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="https://mpb.rks-gov.net/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Xhelal Sveçla </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Internal Affairs                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="https://msh.rks-gov.net/sq/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Rifat Latifi </h1>
-
-                                            <p class="members-title">
-                                                Minister of Ministry of Health                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="https://masht.rks-gov.net/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Arbërie Nagavci </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Education, Science, Technology and Innovation                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="https://www.mkrs-ks.org/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Hajrulla Çeku </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Culture, Youth and Sports                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="https://mapl.rks-gov.net/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Elbert Krasniqi </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Local Government Administration                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="https://mea.rks-gov.net/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Liburn Aliu </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Environment, Spatial Planning and Infrastructure                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="https://www.mbpzhr-ks.net/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Faton Peci </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Agriculture, Forestry and Rural Development                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="https://mint.rks-gov.net/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Rozeta Hajdari </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Industry, Entrepreneurship and Trade                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="http://me.rks-gov.net"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Artane Rizvanolli </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Economy                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="http://mzp-rks.org/al/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Goran Rakić </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Communities and Returns                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                                  <a href="https://mzhr.rks-gov.net/"   target="_blank">
-                                <div class="members-info no-image">
-                                                                        <div class="members-brief">
-                                        <div class="brief">
-
-                                                <h1 class="members-name">Fikrim Damka </h1>
-
-                                            <p class="members-title">
-                                                Minister of the Ministry of Regional Development                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                                                                              </div>
-                                        </div>
-                
-<div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
-    <div class="row">
-                <div class="col-xl-12 col-lg-12 col-md-6 col-sm-6">
-            <div class="content-box right-box">
-                <div class="scrollable-div">
-                    <div class='twitter-section'>
-                        <a class="twitter-timeline"
-                           href="https://twitter.com/albinkurti&cards=hidden"
-                           data-height="600"
-                           data-chrome="transparent nofooter">
-                           <!-- Tweets by @AlbinKurti-->
-                        </a>
-                        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-
-            </div>
-        </div>
-    </section>
-
-
-<footer class="">
-    <div class="container">
-        <div class="row no-gutters mobile-logo">
-            <div class="col-5">
-                <span class="left-line"></span>
-            </div>
-            <div class="col-2">
-                <div class="logo">
-                    <img src="https://kryeministri.rks-gov.net/front/inc/images/gray-logo.svg" alt="stema-rks">
-                </div>
-            </div>
-            <div class="col-5">
-                <span class="right-line"></span>
-            </div>
-        </div>
-        <div class="row first-level">
-            <div class="col-xl-6 col-lg-12 col-sm-12 col-12 center-item">
-                <div class="subscribe" data-email="E-mail"
-                     data-submit="Subscribe">
-                    <h3 class="title">Get updates from the Prime Minister Office</h3>
-                    <!--                    -->                </div>
-                <div class="subscribe-holder"
-                     data-subscribe="Abonohu"
-                     data-email="Email"
-                     data-subscribedSuccessfully="Subscribed successfully."
-                     data-emailRequired="Please provide a valid email address."
-                     data-emailExist="Email already exist."
-                     data-invalidEmail="Invalid email address."
-                     data-loading="Loading"
-                     data-loadingmsg="Loading"
-                     data-subscribedSuccessMsg="Your subscription request has been sent successfully.
-To confirm subscription please check your email and click in the link found inside. In any case, please check your Spam/Junk folder."
-                >
-                    				<div class="email_posts_subscribers">
-						<form action="#" method="post" class="elp_form" id="elp_form_1641780934">
-								<p><span class="email">Email</span><br /><input type="email" id="email" name="email" value="" placeholder="Email"  maxlength="225" required/></p>								<input name="submit" id="elp_form_submit_1641780934" value="Submit" type="submit" />
-				<span class="elp_form_spinner" id="elp-loading-image" style="display:none;">
-					<img src="https://kryeministri.rks-gov.net/wp-content/plugins/email-posts-to-subscribers/inc/ajax-loader.gif" />
-				</span>
-				<input name="nonce" id="nonce" value="e40a22f31b" type="hidden"/>
-				<input name="group" id="group" value="zkm" type="hidden"/>
-				<input type="text" style="display:none;" id="email_name" name="email_name" value="" type="hidden"/>
-			</form>	
-			<span class="elp_form_message" id="elp_form_message_1641780934"></span>
-		</div>
-		<br />
-	                </div>
-
-            </div>
-
-                        <div class="col-xl-3 col-lg-6 col-sm-6 col-12 center-item">
-                                    <div class="platform">
-                        <a href="https://kryeministri.rks-gov.net/wp-content/uploads/2021/05/11052021-OPM-Government-Programe-2021-2025.pdf" target="_blank" class="plani">
-                            <h3>
-                                Government Programe 2021-2025
-                            </h3>
-                        </a>
-                    </div>
-                            </div>
-            <div class="col-xl-3 col-lg-6 col-sm-6 col-12 center-item">
-                                    <div class="platform">
-                        <a href="http://konsultimet.rks-gov.net/index.php" target="_blank">
-                            <h3>
-                                Platform for Public Consultation                                <span>join!<span>
-                            </h3>
-                        </a>
-                    </div>
-                            </div>
-        </div>
-        <div class="row no-gutters desktop-logo">
-            <div class="col-5">
-                <span class="left-line"></span>
-            </div>
-            <div class="col-2">
-                <div class="logo">
-                    <img src="https://kryeministri.rks-gov.net/front/inc/images/gray-logo.svg" alt="stema-rks">
-                </div>
-            </div>
-            <div class="col-5">
-                <span class="right-line"></span>
-            </div>
-        </div>
-        <div class="row no-gutters info-part">
-            <div class="col-lg-6 col-md-6">
-                <div class="rich-content">
-                    <h3>OBJECTIVES</h3>
-                    <ul>
-<li>Good governance, transparency and service to the citizens of Kosovo;</li>
-<li>Rule of law;</li>
-<li>Developed economy and modernization of the state;</li>
-<li>Quality education with competitive skills in the EU market;</li>
-<li>Health and effective services;</li>
-<li>Euro-Atlantic integration, membership in the UN;</li>
-<li>Modern Army – member of NATO</li>
-</ul>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-6 external-wrap">
-                <div class="external-links">
-                    <h3>LINKS</h3>
-                    <ul>
-                                                    <li>
-                                <a href="http://www.president-ksgov.net/" target="_blank">
-                                    The Presidency                                </a>
-                            </li>
-                                                        <li>
-                                <a href="http://www.kuvendikosoves.org/" target="_blank">
-                                    The Assembly                                </a>
-                            </li>
-                                                        <li>
-                                <a href="https://www.rks-gov.net/sq-AL/Pages/Fillimi.aspx" target="_blank">
-                                    The Government                                </a>
-                            </li>
-                                                        <li>
-                                <a href="https://gzk.rks-gov.net/" target="_blank">
-                                    The Official Gazette                                </a>
-                            </li>
-                                                </ul>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-6 col-6 external-wrap">
-                <div class="information">
-                    <h3>CONTACT</h3>
-                    <p>Address: Government Building, “Mother Teresa” Square<br />
-10000 Pristina, Republic of Kosovo</p>
-<p>Tel: +383 (0)38 200 14 803</p>
-<p>Email: zkp.zkm@rks-gov.net</p>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="row footer-links no-gutters">
-                            <div class="col-md-3 col-6 mobile-link">
-                    <div class="link-holder">
-                        <a href="https://kryeministri.rks-gov.net/wp-content/uploads/2020/03/Constitution1Kosovo-11.pdf" class="link kushtetuta" target="_blank"
-                           alt="kushtetuta-rks">
-                            The Constitution                        </a>
-                    </div>
-                </div>
-                            <div class="col-md-3 col-6 mobile-link">
-                    <div class="link-holder">
-                        <a href="https://kryeministri.rks-gov.net/wp-content/uploads/2021/08/Himni-i-Kosoves.mp3" class="link himni" target="_blank" alt="himni-rks">
-                            National anthem of Republic of Kosovo                        </a>
-                    </div>
-                </div>
-                    </div>
-        <div class="row">
-            <div class="col-12">
-                <div class="copyright">
-                    <p>
-                        All rights reserved - The Prime Minister Office 2020                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-<script>
-	let page = window.location.pathname;
-	let currentUrl = window.location.href;
-	let url = new URL(currentUrl);
-	var c = url.searchParams.get("kategoria");
-	let language = '';
-	let pageCategory = '/konkurse/';
-	if(currentUrl.includes('/sq/')){
-		language = '/sq';
-	}else if(currentUrl.includes('/sr/')){
-		language = '/sr';
-		pageCategory = '/konkursi/';
-	}else if(currentUrl.includes('/en/')){
-		language ='/en';
-		pageCategory = '/vacancies/';
-	}
-	if(currentUrl.includes(pageCategory) && c == null){
-		window.location.href = language+pageCategory+'?kategoria=konkurse-njoftime-dhe-shpallje&viti=';
-// 		console.log(language+pageCategory+'?kategoria=konkurse-njoftime-dhe-shpallje&viti='); 
-	}
-			
-			</script>
-
-</footer>
-<!-- Instagram Feed JS -->
-<script type="text/javascript">
-var sbiajaxurl = "https://kryeministri.rks-gov.net/wp-admin/admin-ajax.php";
-</script>
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
-<script type='text/javascript' id='wp-polyfill-js-after'>
-( 'fetch' in window ) || document.write( '<script src="https://kryeministri.rks-gov.net/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://kryeministri.rks-gov.net/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://kryeministri.rks-gov.net/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://kryeministri.rks-gov.net/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://kryeministri.rks-gov.net/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://kryeministri.rks-gov.net/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://kryeministri.rks-gov.net/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
-</script>
-<script type='text/javascript' id='contact-form-7-js-extra'>
-/* <![CDATA[ */
-var wpcf7 = {"api":{"root":"https:\/\/kryeministri.rks-gov.net\/wp-json\/","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.1' id='contact-form-7-js'></script>
-<script type='text/javascript' src='https://kryeministri.rks-gov.net/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
-</body>
+<body id="error-page">
+	<div class="wp-die-message"><h1>Error establishing a database connection</h1></div></body>
 </html>
+	
