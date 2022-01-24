@@ -83,11 +83,11 @@
       ],
       "templates": [
         {
-          "description": "Kosovar politician; Prime Minister of Kosovo (2020, 2021-)",
+          "description": "Kosovar politician; prime minister of Kosovo (2020, 2021-)",
           "template": "short description"
         },
         {
-          "date": "March 2021",
+          "date": "January 2022",
           "template": "use dmy dates"
         },
         {
@@ -114,16 +114,17 @@
             "text": "Kurti in 2020"
           },
           "office": {
-            "text": "4th and 6th Prime Minister of Kosovo",
+            "text": "4th and 6th prime minister of Kosovo",
             "links": [
               {
+                "text": "prime minister of Kosovo",
                 "type": "internal",
-                "page": "Prime Minister of Kosovo"
+                "page": "prime minister of Kosovo"
               }
             ]
           },
           "president": {
-            "text": "Glauk Konjufca (acting) Vjosa Osmani",
+            "text": "Glauk Konjufca (acting)\nVjosa Osmani",
             "links": [
               {
                 "type": "internal",
@@ -194,11 +195,11 @@
             ]
           },
           "office2": {
-            "text": "Leader of the Opposition",
+            "text": "Leader of the opposition",
             "links": [
               {
                 "type": "internal",
-                "page": "Leader of the Opposition"
+                "page": "Leader of the opposition"
               }
             ]
           },
@@ -291,7 +292,7 @@
             "text": "March 24, 1975"
           },
           "birth_place": {
-            "text": "Pristina, Yugoslavia (now Kosovo)"
+            "text": "Pristina, Yugoslavia\n(now Kosovo)"
           },
           "party": {
             "text": "Vetëvendosje",
