@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Albin Kurti (born 24 March 1975) is a Kosovar Albanian politician and activist serving as the prime minister of Kosovo since 22 March 2021, having previously served in that role between February and June 2020.",
+              "text": "Albin Kurti (born 24 March 1975) is a Kosovar Albanian politician and activist serving as the Prime Minister of Kosovo since 22 March 2021, having previously served in that role between February and June 2020.",
               "links": [
                 {
                   "text": "Kosovar Albanian",
@@ -29,7 +29,6 @@
                   "page": "Kosovo Albanians"
                 },
                 {
-                  "text": "prime minister of Kosovo",
                   "type": "internal",
                   "page": "Prime Minister of Kosovo"
                 }
@@ -83,7 +82,7 @@
       ],
       "templates": [
         {
-          "description": "Kosovar politician; prime minister of Kosovo (2020, 2021-)",
+          "description": "Kosovar politician; Prime Minister of Kosovo (2020, 2021-)",
           "template": "short description"
         },
         {
@@ -114,12 +113,11 @@
             "text": "Kurti in 2020"
           },
           "office": {
-            "text": "4th and 6th prime minister of Kosovo",
+            "text": "4th and 6th Prime Minister of Kosovo",
             "links": [
               {
-                "text": "prime minister of Kosovo",
                 "type": "internal",
-                "page": "prime minister of Kosovo"
+                "page": "Prime Minister of Kosovo"
               }
             ]
           },
@@ -195,11 +193,11 @@
             ]
           },
           "office2": {
-            "text": "Leader of the opposition",
+            "text": "Leader of the Opposition",
             "links": [
               {
                 "type": "internal",
-                "page": "Leader of the opposition"
+                "page": "Leader of the Opposition"
               }
             ]
           },
