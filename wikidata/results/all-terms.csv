@@ -1,0 +1,9 @@
+ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+1,Q29205176,1st Kosovan Assembly,2001-11-17,2004-11-23,,,2001-11-17,11,,,2004-11-23,11,,,,,,,Q29205183,2nd Kosovan Assembly
+2,Q29205183,2nd Kosovan Assembly,2004-11-23,2007-12-12,,,2004-11-23,11,,,2007-12-12,11,,,,,Q29205176,1st Kosovan Assembly,Q29205159,3rd Kosovan Assembly
+3,Q29205159,3rd Kosovan Assembly,2007-12-13,2010-11-03,,,2007-12-13,11,,,2010-11-03,11,,,,,Q29205183,2nd Kosovan Assembly,Q29205169,4th Kosovan Assembly
+4,Q29205169,4th Kosovan Assembly,2010-12-12,2014-05-07,,,2010-12-12,11,,,2014-05-07,11,,,,,Q29205159,3rd Kosovan Assembly,Q29205166,5th Kosovan Assembly
+5,Q29205166,5th Kosovan Assembly,2014-07-17,2017-05-10,2014-07-17,11,2014-07-17,11,2017-05-10,11,,,,,,,Q29205169,4th Kosovan Assembly,Q38238768,6th Kosovan Assembly
+6,Q38238768,6th Kosovan Assembly,2017-08-03,2019-10-01,2017-08-03,11,,,2019-10-01,10,,,,,Q110898061,7th Kosovan Assembly,Q29205166,5th Kosovan Assembly,,
+7,Q110898061,7th Kosovan Assembly,2019-10-01,2021-02-01,2019-10-01,10,,,2021-02-01,10,,,Q38238768,6th Kosovan Assembly,Q110898062,8th Kosovan Assembly,,,,
+8,Q110898062,8th Kosovan Assembly,2021-02-01,,2021-02-01,10,,,,,,,Q110898061,7th Kosovan Assembly,,,,,,
