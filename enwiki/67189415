@@ -67,6 +67,16 @@
                   "page": "Jusuf Gërvalla"
                 }
               ]
+            },
+            {
+              "text": "She is the founder of the centre-right political party Guxo!.",
+              "links": [
+                {
+                  "text": "Guxo!",
+                  "type": "internal",
+                  "page": "Guxo"
+                }
+              ]
             }
           ]
         }
