@@ -100,14 +100,15 @@
             "text": "Donika Gërvalla-Schwarz"
           },
           "image": {
-            "text": "Donika Gërvalla-Schwarz (2021).jpg"
+            "text": "DonikaGërvallaSchwarz (cropped).jpg"
           },
           "caption": {
-            "text": "Gërvalla-Schwarz in the Europa-Forum Wachau, June 2021",
+            "text": "Gërvalla-Schwarz at a marginal meeting of the UN General Assembly, September 2021",
             "links": [
               {
+                "text": "UN General Assembly",
                 "type": "internal",
-                "page": "Europa-Forum Wachau"
+                "page": "United Nations General Assembly"
               }
             ]
           },
