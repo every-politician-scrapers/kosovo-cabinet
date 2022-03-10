@@ -1,267 +1,30 @@
 {
-  "title": "Glauk Konjufca",
-  "pageID": 31975455,
-  "categories": [
-    "Albanian politicians",
-    "Kosovo Albanians",
-    "Writers from Pristina",
-    "1981 births",
-    "Living people",
-    "Politicians from Pristina",
-    "Vetëvendosje politicians",
-    "University of Pristina alumni",
-    "Foreign ministers of Kosovo"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Glauk Konjufca (born 25 July 1981) is a Kosovar activist, journalist and politician serving as chairman of the Assembly of Kosovo since 22 March 2021.",
-              "links": [
-                {
-                  "text": "chairman of the Assembly of Kosovo",
-                  "type": "internal",
-                  "page": "chairman of the Assembly of Kosovo"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Glauk Konjufca"
-                ]
-              }
-            },
-            {
-              "text": "He was previously member of the Assembly, leader of the Vetëvendosje parliamentary group, chairman of the Assembly, minister of Foreign Affairs, as well as acting president of Kosovo until the election of Vjosa Osmani.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Vetëvendosje"
-                },
-                {
-                  "text": "minister of Foreign Affairs",
-                  "type": "internal",
-                  "page": "Ministry of Foreign Affairs (Kosovo)"
-                },
-                {
-                  "text": "president of Kosovo",
-                  "type": "internal",
-                  "page": "president of Kosovo"
-                },
-                {
-                  "type": "internal",
-                  "page": "Vjosa Osmani"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Kosovan politician",
-          "template": "short description"
-        },
-        {
-          "date": "April 2021",
-          "template": "one source"
-        },
-        {
-          "year": "1981",
-          "month": "7",
-          "day": "25",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Glauk Konjufca"
-          },
-          "image": {
-            "text": "Glauk Konjufca (cropped).jpg"
-          },
-          "caption": {
-            "text": "Glauk Konjufca in 2021"
-          },
-          "office": {
-            "text": "5th Chairman of the Assembly of Kosovo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chairman of the Assembly of Kosovo"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "22 March 2021"
-          },
-          "predecessor": {
-            "text": "Vjosa Osmani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vjosa Osmani"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "26 December 2019"
-          },
-          "term_end1": {
-            "text": "3 February 2020"
-          },
-          "predecessor1": {
-            "text": "Kadri Veseli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kadri Veseli"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Vjosa Osmani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vjosa Osmani"
-              }
-            ]
-          },
-          "office2": {
-            "text": "President of Kosovo Acting",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Kosovo"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Albin Kurti",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Albin Kurti"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "22 March 2021"
-          },
-          "term_end2": {
-            "text": "4 April 2021"
-          },
-          "predecessor2": {
-            "text": "Vjosa Osmani (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vjosa Osmani"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Vjosa Osmani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vjosa Osmani"
-              }
-            ]
-          },
-          "office3": {
-            "text": "6th Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs (Kosovo)"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Albin Kurti",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Albin Kurti"
-              }
-            ]
-          },
-          "president3": {
-            "text": "Hashim Thaçi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hashim Thaçi"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "3 February 2020"
-          },
-          "term_end3": {
-            "text": "3 June 2020"
-          },
-          "predecessor3": {
-            "text": "Behgjet Pacolli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Behgjet Pacolli"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Meliza Haradinaj"
-          },
-          "alt": {
-            "text": "Glauk Konjufca"
-          },
-          "birth_date": {
-            "text": "July 25, 1981"
-          },
-          "birth_place": {
-            "text": "Pristina, Yugoslavia (modern-day Kosovo)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pristina"
-              },
-              {
-                "text": "Yugoslavia",
-                "type": "internal",
-                "page": "Socialist Federal Republic of Yugoslavia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Albanian",
-            "links": [
-              {
-                "text": "Albanian",
-                "type": "internal",
-                "page": "Kosovo Albanians"
-              }
-            ]
-          },
-          "party": {
-            "text": "Vetëvendosje",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vetëvendosje"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Glauk Konjufca",
+  "image": "Glauk Konjufca (cropped).jpg",
+  "caption": "Glauk Konjufca in 2021",
+  "office": "5th Chairman of the Assembly of Kosovo",
+  "term_start": "22 March 2021",
+  "predecessor": "Vjosa Osmani",
+  "term_start1": "26 December 2019",
+  "term_end1": "3 February 2020",
+  "predecessor1": "Kadri Veseli",
+  "successor1": "Vjosa Osmani",
+  "office2": "President of Kosovo Acting",
+  "primeminister2": "Albin Kurti",
+  "term_start2": "22 March 2021",
+  "term_end2": "4 April 2021",
+  "predecessor2": "Vjosa Osmani (Acting)",
+  "successor2": "Vjosa Osmani",
+  "office3": "6th Minister of Foreign Affairs",
+  "primeminister3": "Albin Kurti",
+  "president3": "Hashim Thaçi",
+  "term_start3": "3 February 2020",
+  "term_end3": "3 June 2020",
+  "predecessor3": "Behgjet Pacolli",
+  "successor3": "Meliza Haradinaj",
+  "alt": "Glauk Konjufca",
+  "birth_date": "July 25, 1981",
+  "birth_place": "Pristina, Yugoslavia (modern-day Kosovo)",
+  "nationality": "Albanian",
+  "party": "Vetëvendosje"
 }

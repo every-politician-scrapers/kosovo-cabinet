@@ -1,206 +1,25 @@
 {
-  "title": "Emilija Redžepi",
-  "pageID": 55860911,
-  "categories": [
-    "Living people",
-    "Kosovan women in politics",
-    "Kosovan people of Bosniak descent",
-    "Members of the Assembly of the Republic of Kosovo",
-    "21st-century women politicians",
-    "Year of birth missing (living people)",
-    "Government ministers of Kosovo",
-    "Women government ministers of Kosovo"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Emilija Redžepi (Emilija Rexhepi) is a Kosovan Bosniak politician, and is a member of the New Democratic Party who sits in the Assembly of the Republic of Kosovo.",
-              "links": [
-                {
-                  "text": "Kosovan Bosniak",
-                  "type": "internal",
-                  "page": "Bosniaks in Kosovo"
-                },
-                {
-                  "text": "New Democratic Party",
-                  "type": "internal",
-                  "page": "New Democratic Party (Kosovo)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Assembly of the Republic of Kosovo"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Emilija Redžepi"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Emilija Redžepi"
-          },
-          "image": {
-            "text": "Emilija Redzepi.jpg"
-          },
-          "image_size": {
-            "text": "150",
-            "number": 150
-          },
-          "office": {
-            "text": "Third Deputy Prime Minister of Kosovo for Minority Issues and Human Rights"
-          },
-          "term_start": {
-            "text": "22 March 2021"
-          },
-          "president": {
-            "text": "Glauk Konjufca (Acting) Vjosa Osmani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Glauk Konjufca"
-              },
-              {
-                "type": "internal",
-                "page": "Vjosa Osmani"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Albin Kurti",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Albin Kurti"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Albulena Balaj-Halimaj",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Albulena Balaj-Halimaj"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Administration and Local Government"
-          },
-          "term_start1": {
-            "text": "3 February 2020"
-          },
-          "term_end1": {
-            "text": "3 June 2020"
-          },
-          "president1": {
-            "text": "Hashim Thaçi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hashim Thaçi"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Albin Kurti",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Albin Kurti"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Adrijana Hodžić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adrijana Hodžić"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Goran Rakić",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Goran Rakić"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the Assembly of the Republic of Kosovo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Assembly of the Republic of Kosovo"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2014",
-            "number": 2014
-          },
-          "term_end2": {
-            "text": "2020",
-            "number": 2020
-          },
-          "president2": {
-            "text": "Atifete Jahjaga Hashim Thaçi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Atifete Jahjaga"
-              },
-              {
-                "type": "internal",
-                "page": "Hashim Thaçi"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Isa Mustafa Ramush Haradinaj",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Isa Mustafa"
-              },
-              {
-                "type": "internal",
-                "page": "Ramush Haradinaj"
-              }
-            ]
-          },
-          "party": {
-            "text": "New Democratic Party",
-            "links": [
-              {
-                "text": "New Democratic Party",
-                "type": "internal",
-                "page": "New Democratic Party (Kosovo)"
-              }
-            ]
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          },
-          "occupation": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Emilija Redžepi",
+  "image": "Emilija Redzepi.jpg",
+  "image_size": "150",
+  "office": "Third Deputy Prime Minister of Kosovo for Minority Issues and Human Rights",
+  "term_start": "22 March 2021",
+  "president": "Glauk Konjufca (Acting) Vjosa Osmani",
+  "primeminister": "Albin Kurti",
+  "predecessor": "Albulena Balaj-Halimaj",
+  "office1": "Minister of Administration and Local Government",
+  "term_start1": "3 February 2020",
+  "term_end1": "3 June 2020",
+  "president1": "Hashim Thaçi",
+  "primeminister1": "Albin Kurti",
+  "predecessor1": "Adrijana Hodžić",
+  "successor1": "Goran Rakić",
+  "office2": "Member of the Assembly of the Republic of Kosovo",
+  "term_start2": "2014",
+  "term_end2": "2020",
+  "president2": "Atifete Jahjaga Hashim Thaçi",
+  "primeminister2": "Isa Mustafa Ramush Haradinaj",
+  "party": "New Democratic Party",
+  "children": "1",
+  "occupation": "Politician"
 }
