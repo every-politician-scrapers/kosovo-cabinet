@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Kosovo",
+      "id": "Q1246"
+    },
+    "cabinet": {
+      "id": "Q106131506",
+      "start": "2021-03-22",
+      "parent": "Q107600990"
+    },
+    "source": {
+        "url":   "https://kryeministri.rks-gov.net/en/the-prime-minister/government-cabinet/",
+        "title": "Government cabinet - Office of the Prime Minister",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/kosovo-cabinet"
+}
