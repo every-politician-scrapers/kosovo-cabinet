@@ -8,13 +8,16 @@
       "start": "2021-03-22",
       "parent": "Q107600990"
     },
-    "source": {
-        "url":   "https://kryeministri.rks-gov.net/en/the-prime-minister/government-cabinet/",
-        "title": "Government cabinet - Office of the Prime Minister",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://kryeministri.rks-gov.net/en/the-prime-minister/government-cabinet/",
+        "P1476": {
+            "text": "Government cabinet - Office of the Prime Minister",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/kosovo-cabinet"
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Kosovo"
+    }
 }
