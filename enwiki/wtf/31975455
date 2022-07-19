@@ -1,0 +1,422 @@
+{
+  "title": "Glauk Konjufca",
+  "pageID": 31975455,
+  "categories": [
+    "Albanian politicians",
+    "Kosovo Albanians",
+    "Writers from Pristina",
+    "1981 births",
+    "Living people",
+    "Politicians from Pristina",
+    "Vetëvendosje politicians",
+    "University of Pristina alumni",
+    "Foreign ministers of Kosovo"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Glauk Konjufca (born 25 July 1981) is a Kosovan activist, journalist and politician serving as chairman of the Assembly of Kosovo since 22 March 2021.",
+              "links": [
+                {
+                  "text": "chairman of the Assembly of Kosovo",
+                  "type": "internal",
+                  "page": "chairman of the Assembly of Kosovo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Glauk Konjufca"
+                ]
+              }
+            },
+            {
+              "text": "He was previously member of the Assembly, leader of the Vetëvendosje parliamentary group, chairman of the Assembly, minister of Foreign Affairs, as well as acting president of Kosovo until the election of Vjosa Osmani.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vetëvendosje"
+                },
+                {
+                  "text": "minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Kosovo)"
+                },
+                {
+                  "text": "president of Kosovo",
+                  "type": "internal",
+                  "page": "president of Kosovo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vjosa Osmani"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kosovan politician",
+          "template": "short description"
+        },
+        {
+          "date": "April 2021",
+          "template": "one source"
+        },
+        {
+          "year": "1981",
+          "month": "7",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Glauk Konjufca"
+          },
+          "image": {
+            "text": "Glauk Konjufca (cropped).jpg"
+          },
+          "caption": {
+            "text": "Glauk Konjufca in 2021"
+          },
+          "office": {
+            "text": "5th Chairman of the Assembly of Kosovo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chairman of the Assembly of Kosovo"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "22 March 2021"
+          },
+          "predecessor": {
+            "text": "Vjosa Osmani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vjosa Osmani"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "26 December 2019"
+          },
+          "term_end1": {
+            "text": "3 February 2020"
+          },
+          "predecessor1": {
+            "text": "Kadri Veseli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kadri Veseli"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Vjosa Osmani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vjosa Osmani"
+              }
+            ]
+          },
+          "office2": {
+            "text": "President of Kosovo Acting",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Kosovo"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Albin Kurti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albin Kurti"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "22 March 2021"
+          },
+          "term_end2": {
+            "text": "4 April 2021"
+          },
+          "predecessor2": {
+            "text": "Vjosa Osmani (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vjosa Osmani"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Vjosa Osmani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vjosa Osmani"
+              }
+            ]
+          },
+          "office3": {
+            "text": "6th Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Kosovo)"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Albin Kurti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albin Kurti"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Hashim Thaçi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hashim Thaçi"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "3 February 2020"
+          },
+          "term_end3": {
+            "text": "3 June 2020"
+          },
+          "predecessor3": {
+            "text": "Behgjet Pacolli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Behgjet Pacolli"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Meliza Haradinaj"
+          },
+          "alt": {
+            "text": "Glauk Konjufca"
+          },
+          "birth_date": {
+            "text": "July 25, 1981"
+          },
+          "birth_place": {
+            "text": "Pristina, Yugoslavia (modern-day Kosovo)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pristina"
+              },
+              {
+                "text": "Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Albanian",
+            "links": [
+              {
+                "text": "Albanian",
+                "type": "internal",
+                "page": "Kosovo Albanians"
+              }
+            ]
+          },
+          "party": {
+            "text": "Vetëvendosje",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vetëvendosje"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Konjufca was born in Prishtina."
+            },
+            {
+              "text": "He studied philosophy at the University of Prishtina.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Prishtina"
+                }
+              ]
+            },
+            {
+              "text": "During his studies, he served as deputy director of the Center for Rights student organization."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Konjufca is the author of a book on G.W.F. Hegel and other publications on philosophy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "G.W.F. Hegel"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Politics",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Konjufca has been an activist of the Vetëvendosje Movement since its founding in 2005."
+            },
+            {
+              "text": "He edited the movement's weekly newspaper, and was elected to the Assembly of Kosovo in 2010, when Vetëvendosje first ran for elected office."
+            },
+            {
+              "text": "He served as deputy chairman of the Assembly from 2011 to 2014 and again from 2015 to 2017, and led the Vetëvendosje parliamentary group from 2014 to 2019."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After Vetëvendosje's victory in the 2019 parliamentary election, Konjufca was appointed chairman of the Assembly on 26 December 2019 with a 75–27 vote."
+            },
+            {
+              "text": "He resigned on 3 February 2020 to become minister of foreign affairs."
+            },
+            {
+              "text": "He left office when a new government led by opposition parties took over on 3 June 2020."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Konjufca was the second most voted candidate in the 2021 parliamentary election, which Vetëvendosje won by a landslide."
+            },
+            {
+              "text": "On 22 March 2021, he was elected chairman of the Assembly by a 69–33 vote."
+            },
+            {
+              "text": "With a vacant presidency, Konjufca was also serving as acting president until the election of Vjosa Osmani."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Kadri Veseli",
+          "template": "s-bef"
+        },
+        {
+          "title": "Speaker of the Assembly of Kosovo",
+          "years": "2019–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Vjosa Osmani",
+          "template": "s-aft"
+        },
+        {
+          "before": "Vjosa Osmani",
+          "template": "s-bef"
+        },
+        {
+          "title": "Speaker of the Assembly of Kosovo",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Vjosa Osmani Acting",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of Kosovo\nActing",
+          "years": "2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Vjosa Osmani",
+          "template": "s-aft"
+        },
+        {
+          "template": "presidents of kosovo"
+        }
+      ]
+    }
+  ]
+}

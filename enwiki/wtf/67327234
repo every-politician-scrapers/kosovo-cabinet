@@ -1,0 +1,194 @@
+{
+  "title": "Liburn Aliu",
+  "pageID": 67327234,
+  "categories": [
+    "1975 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Liburn Aliu is a Kosovo-Albanian politician, Vetëvendosje member and current Minister of Environment, Spatial Planning and Infrastructure.",
+              "links": [
+                {
+                  "text": "Kosovo-Albanian",
+                  "type": "internal",
+                  "page": "Kosovo-Albanians"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vetëvendosje"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Liburn Aliu"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Albanian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1975",
+          "month": "4",
+          "day": "10",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "date": "April 2021",
+          "template": "circular reference"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Liburn Aliu"
+          },
+          "image": {
+            "text": "Liburn Aliu.jpg"
+          },
+          "office": {
+            "text": "Minister of Infrastructure and Environment",
+            "links": [
+              {
+                "text": "Minister of Infrastructure and Environment",
+                "type": "internal",
+                "page": "Ministry of Environment, Spatial Planning and Infrastructure of Kosovo"
+              }
+            ]
+          },
+          "president": {
+            "text": "Vjosa Osmani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vjosa Osmani"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Albin Kurti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albin Kurti"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "22 March 2021"
+          },
+          "birth_date": {
+            "text": "April 10, 1975"
+          },
+          "birth_place": {
+            "text": "Pristina, Yugoslavia now Pristina, Kosovo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pristina"
+              },
+              {
+                "text": "Yugoslavia",
+                "type": "internal",
+                "page": "Socialist Federal Republic of Yugoslavia"
+              }
+            ]
+          },
+          "party": {
+            "text": "Vetëvendosje",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vetëvendosje"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Liburn_Aliu",
+          "url": "https://sq.wikipedia.org/wiki/Liburn_Aliu",
+          "website": "wikipedia",
+          "accessdate": "5 April 2020",
+          "language": "Albanian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-04-06",
+          "title": "Dështon seanca ku i akuzuar është Liburn Aliu",
+          "url": "https://kallxo.com/lajm/deshton-seanca-ku-i-akuzuar-eshte-liburn-aliu/",
+          "access-date": "2021-04-07",
+          "website": "Raporto Korrupsionin! KALLXO.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Liburn Aliu was born on April 10, 1975 in Prishtina."
+            },
+            {
+              "text": "He attended primary school in the school \"Hasan Prishtina\", secondary school in the gymnasium \"Xhevdet Doda\" in Prishtina and the University of Prishtina, where he graduated from the Faculty of Civil Engineering and Architecture, Department of Architecture."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Liburni has worked as an architect in high design and construction, and has been involved in the restoration of cultural heritage monuments, where he has overseen the restoration work."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Liburn Ali's political past began in 1994 with illegal activities, specifically within the National Movement for the Liberation of Kosovo."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Liburn_Aliu",
+          "url": "https://www.vetevendosje.org/profilet/liburn-aliu/",
+          "website": "vetevendosje",
+          "accessdate": "5 April 2020",
+          "language": "Albanian",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "kosovo-politician-stub"
+        }
+      ]
+    }
+  ]
+}

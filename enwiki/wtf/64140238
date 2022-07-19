@@ -1,0 +1,722 @@
+{
+  "title": "Goran Rakić",
+  "pageID": 64140238,
+  "categories": [
+    "Politicians from Mitrovica, Kosovo",
+    "1971 births",
+    "Living people",
+    "Serbian politicians",
+    "Kosovo Serbs",
+    "Kosovan politicians",
+    "Serbian Progressive Party politicians",
+    "Government ministers of Kosovo",
+    "Mayors of places in Serbia",
+    "Mayors of places in Kosovo"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Goran Rakić (, ; born 1971) is a Kosovo Serb politician who is currently serving as Minister for Communities and Returns in the Government of Kosovo since 22 March 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kosovo Serb"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Kosovo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Goran Rakić"
+                ]
+              }
+            },
+            {
+              "text": "Prior to this, he served as the Deputy Prime Minister of Kosovo and as the Minister of Administration and Local Government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Kosovo"
+                }
+              ]
+            },
+            {
+              "text": "He is a former mayor of North Mitrovica and the current president of the Serb List, an ethnic Serb minority political party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "North Mitrovica"
+                },
+                {
+                  "text": "Serb List",
+                  "type": "internal",
+                  "page": "Serb List (Kosovo)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Kosovo Serb politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "birth_year": "1971",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "Горан Ракић"
+          ],
+          "template": "lang-sr-cyrl"
+        },
+        {
+          "list": [
+            "Goran Rakiq"
+          ],
+          "template": "lang-al"
+        },
+        {
+          "list": [
+            ""
+          ],
+          "name": "status",
+          "template": "efn"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Goran Rakić"
+          },
+          "birth_place": {
+            "text": "Titova Mitrovica, SR Serbia, SFR Yugoslavia",
+            "links": [
+              {
+                "text": "Titova Mitrovica",
+                "type": "internal",
+                "page": "Mitrovica, Kosovo"
+              },
+              {
+                "type": "internal",
+                "page": "SR Serbia"
+              },
+              {
+                "type": "internal",
+                "page": "SFR Yugoslavia"
+              }
+            ]
+          },
+          "native_name": {
+            "text": "Горан Ракић"
+          },
+          "party": {
+            "text": "Serb List",
+            "links": [
+              {
+                "text": "Serb List",
+                "type": "internal",
+                "page": "Serb List (Kosovo)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Priština",
+            "links": [
+              {
+                "text": "University of Priština",
+                "type": "internal",
+                "page": "University of Priština (North Mitrovica)"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "nationality": {
+            "text": "Kosovan · Serbian"
+          },
+          "birth_date": {
+            "text": "1971 (age 51)"
+          },
+          "caption": {
+            "text": "Goran Rakić in March 2021"
+          },
+          "image": {
+            "text": "Minister Goran Rakić (cropped).jpg"
+          },
+          "otherparty": {
+            "text": "Serbian Progressive Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Serbian Progressive Party"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister for Communities and Returns"
+          },
+          "term_start": {
+            "text": "22 March 2021"
+          },
+          "primeminister": {
+            "text": "Albin Kurti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albin Kurti"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Dalibor Jevtić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dalibor Jevtić"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Prime Minister of Kosovo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kosovo"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "3 June 2020"
+          },
+          "term_end1": {
+            "text": "22 March 2021"
+          },
+          "primeminister1": {
+            "text": "Avdullah Hoti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Avdullah Hoti"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Emilija Redžepi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emilija Redžepi"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Administration and Local Government"
+          },
+          "term_start2": {
+            "text": "3 June 2020"
+          },
+          "term_end2": {
+            "text": "22 March 2021"
+          },
+          "primeminister2": {
+            "text": "Avdullah Hoti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Avdullah Hoti"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Emilija Redžepi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emilija Redžepi"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Elbert Krasniqi"
+          },
+          "office3": {
+            "text": "Mayor of North Mitrovica",
+            "links": [
+              {
+                "type": "internal",
+                "page": "North Mitrovica"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "23 February 2014"
+          },
+          "term_end3": {
+            "text": "3 June 2020"
+          },
+          "predecessor3": {
+            "text": "Krstimir Pantić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Krstimir Pantić"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Aleksandar Spirić (acting)"
+          },
+          "office4": {
+            "text": "Leader of the Serb List",
+            "links": [
+              {
+                "text": "Serb List",
+                "type": "internal",
+                "page": "Serb List (Kosovo)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "17 July 2017"
+          },
+          "predecessor4": {
+            "text": "Slavko Simić",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Slavko Simić"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Goran Rakić was born in 1971 in Titova Mitrovica (Kosovska Mitrovica / Mitrovica) which was then a part of the SFR Yugoslavia, to an ethnic Serb family.",
+              "links": [
+                {
+                  "text": "Titova Mitrovica",
+                  "type": "internal",
+                  "page": "Mitrovica, Kosovo"
+                },
+                {
+                  "text": "SFR Yugoslavia",
+                  "type": "internal",
+                  "page": "Socialist Federal Republic of Yugoslavia"
+                },
+                {
+                  "text": "Serb",
+                  "type": "internal",
+                  "page": "Kosovo Serbs"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from the Faculty of Economics, University of Priština.",
+              "links": [
+                {
+                  "text": "University of Priština",
+                  "type": "internal",
+                  "page": "University of Priština (North Mitrovica)"
+                }
+              ]
+            },
+            {
+              "text": "He was employed as the director of JKP \"Standard\" Kosovska Mitrovica, and before that in the Fire Station Kosovska Mitrovica."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Tasić",
+          "first": "Piše: Jelena",
+          "title": "Izabrani gradonačelnik",
+          "url": "https://www.danas.rs/ljudi/izabrani-gradonacelnik/",
+          "access-date": "2020-06-02",
+          "website": "Dnevni list Danas",
+          "language": "sr-RS",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He has been performing the function of the mayor of the municipality of North Mitrovica after swearing an oath to the Republic of Kosovo in 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "North Mitrovica"
+                },
+                {
+                  "text": "Republic of Kosovo",
+                  "type": "internal",
+                  "page": "Kosovo"
+                }
+              ]
+            },
+            {
+              "text": "He won his second four-year term in 2017 Kosovan local elections.",
+              "links": [
+                {
+                  "text": "2017 Kosovan local elections",
+                  "type": "internal",
+                  "page": "2017 Kosovan local elections"
+                }
+              ]
+            },
+            {
+              "text": "Since 2017, Rakic has been the president of the Serb List, which has power in all ten Serb-majority municipalities, as well as all ten guaranteed seats in the Assembly of Kosovo for the Serb community.",
+              "links": [
+                {
+                  "text": "Serb List",
+                  "type": "internal",
+                  "page": "Serb List (Kosovo)"
+                },
+                {
+                  "text": "Serb-majority municipalities",
+                  "type": "internal",
+                  "page": "Community of Serb Municipalities"
+                },
+                {
+                  "text": "Assembly of Kosovo",
+                  "type": "internal",
+                  "page": "Assembly of the Republic of Kosovo"
+                },
+                {
+                  "text": "Serb",
+                  "type": "internal",
+                  "page": "Kosovo Serbs"
+                }
+              ]
+            },
+            {
+              "text": "He is also the president of the municipality board of the Serbian Progressive Party in North Mitrovica.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Serbian Progressive Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the summer of 2017, Rakić and Milan Radoičić, a vice president of the Serb List met with Behgjet Pacolli, a former Minister of Foreign Affairs of Kosovo in Budva to discuss the possibility of the Serb List joining the government of Kosovo and supporting Ramush Haradinaj as the prime minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Milan Radoičić"
+                },
+                {
+                  "type": "internal",
+                  "page": "Behgjet Pacolli"
+                },
+                {
+                  "type": "internal",
+                  "page": "Budva"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ramush Haradinaj"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In January 2019, he said that Serbs will never allow the reunification of North and South Mitrovica as that would be a cover for ethnic cleansing against the Kosovo Serbs."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 3 June 2020, he took the office of the Deputy Prime Minister of Kosovo and the Minister of Administration and Local Government in the Hoti cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kosovo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hoti cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2020, Serb List caused a controversy in Kosovo by announcing that they will support Serbia's COVID-19 curfew measures and have vowed to locally implement them in Kosovo.",
+              "links": [
+                {
+                  "text": "Serbia's",
+                  "type": "internal",
+                  "page": "Serbia"
+                },
+                {
+                  "text": "COVID-19",
+                  "type": "internal",
+                  "page": "Coronavirus disease 2019"
+                }
+              ]
+            },
+            {
+              "text": "They also vowed to support Aleksandar Vučić in the “fight” for Kosovo during the dialogue.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aleksandar Vučić"
+                }
+              ]
+            },
+            {
+              "text": "Shortly after, a parliamentary resolution initiated by Vjosa Osmani, the Speaker of the Parliament, condemning a statement by the Serb List failed to pass.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vjosa Osmani"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 27 July 2020, Serbian Anti-Corruption Agency started an investigation against Rakić and other high ranking Serb officials in Kosovo due to the suspicion that they violated the law because they did not report their property and income to the Anti-Corruption Agency."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 22 March 2021, Rakić took office of the Minister for Communities and Returns in the second Kurti cabinet.",
+              "links": [
+                {
+                  "text": "second Kurti cabinet",
+                  "type": "internal",
+                  "page": "second Kurti cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "KRIK objavio fotografiju - Pacoli, Rakić i Radoičić zajedno na jahti",
+          "url": "http://rs.n1info.com/Vesti/a531544/Pacoli-Rakic-i-Radoicic-zajedno-na-jahti.html",
+          "access-date": "2020-08-17",
+          "website": "N1 Srbija",
+          "language": "sr-Latn",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "GRADONAČELNIK GORAN RAKIĆ PORUČIO: Srbi nikada neće dozvoliti ujedinjenje severnog i južnog dela Кosovske Mitrovice! Ujedinjenje Mitrovice paravan je za etničko čišćenje!",
+          "url": "https://www.kurir.rs/vesti/politika/3193529/gradonacelnik-goran-rakic-porucio-srbi-nikada-nece-dozvoliti-ujedinjenje-severnog-i-juznog-dela-kosovske-mitrovice-ujedinjenje-mitrovice-paravan-je-za-etnicko-ciscenje",
+          "access-date": "2020-06-07",
+          "website": "kurir.rs",
+          "language": "sr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Izabrana nova Vlada Kosova, podržala je i Srpska lista",
+          "url": "https://www.glasamerike.net/a/izabrana-nova-vlada-kosova-podrzala-je-i-srpska-lista/5447360.html",
+          "access-date": "2020-06-03",
+          "website": "Glas Amerike",
+          "language": "sr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-07-07",
+          "title": "Kosovo Serbs to Follow Vucic’s Curfew Order, Says Coalition Partner 'Serb List'",
+          "url": "https://exit.al/en/2020/07/08/kosovo-serbs-to-follow-vucics-lockdown-order-says-coalition-partner-serb-list/",
+          "access-date": "2020-07-13",
+          "website": "Exit - Explaining Albania",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-07-09",
+          "title": "Resolution Condemning Kosovo Coalition Ally’s Support of Serbia in Dialogue Fails to Pass",
+          "url": "https://exit.al/en/2020/07/09/resolution-condemning-kosovo-coalition-allys-support-of-serbia-in-dialogue-fails-to-pass/",
+          "access-date": "2020-07-13",
+          "website": "Exit - Explaining Albania",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "CINS",
+          "first": "Piše",
+          "date": "2020-07-27",
+          "title": "Agencija pokrenula postupak protiv Gorana Rakića i još dva srpska funkcionera sa Kosova",
+          "url": "https://www.danas.rs/drustvo/agencija-pokrenula-postupak-protiv-gorana-rakica-i-jos-dva-srpska-funkcionera-sa-kosova/",
+          "access-date": "2020-07-27",
+          "website": "Dnevni list Danas",
+          "language": "sr-RS",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-03-22",
+          "title": "Izglasana nova vlada Kosova, imaće 15 ministarstava, Srpska lista će se žaliti",
+          "url": "https://rs.n1info.com/vesti/izglasana-nova-vlada-kosova-imace-15-ministarstava-srpska-lista-ce-se-zaliti/",
+          "access-date": "2021-03-22",
+          "website": "N1",
+          "language": "sr-RS",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kabinet gradonačelnika",
+          "url": "http://www.esevernamitrovica.com/pages/kabinet-gradonacelnika",
+          "access-date": "2020-06-01",
+          "website": "Zubin Potok",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He is married and has two children."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Notes and references",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "kosovo-note"
+        },
+        {
+          "name": "status",
+          "template": "efn"
+        },
+        {
+          "template": "notes"
+        },
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Emilija Redžepi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Administration and Local Government",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Slavko Simić",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Serb List",
+          "years": "2017–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Српска листа - Косово и Метохија - Званични сајт",
+            "links": [
+              {
+                "text": "Српска листа - Косово и Метохија - Званични сајт",
+                "type": "external",
+                "site": "http://srpskalista.net/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
