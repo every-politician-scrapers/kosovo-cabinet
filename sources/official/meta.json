@@ -9,9 +9,9 @@
       "parent": "Q107600990"
     },
     "reference": {
-        "P854":   "https://kryeministri.rks-gov.net/en/the-prime-minister/government-cabinet/",
+        "P854":   "https://kryeministri.rks-gov.net/en/prime-minister/government-cabinet/",
         "P1476": {
-            "text": "Government cabinet - Office of the Prime Minister",
+            "text": "Government cabinet - Zyra e Kryeministrit",
             "language": "en"
         }
     },

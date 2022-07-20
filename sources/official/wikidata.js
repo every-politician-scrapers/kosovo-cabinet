@@ -70,7 +70,7 @@ module.exports = function () {
 
       OPTIONAL {
         ?ps prov:wasDerivedFrom ?ref .
-        ?ref pr:P854 ?source FILTER CONTAINS(STR(?source), '${meta.reference.P854}') .
+        ?ref pr:P854 ?source FILTER CONTAINS(STR(?source), 'kryeministri.rks-gov.net') .
         OPTIONAL { ?ref pr:P1810 ?sourceName }
         OPTIONAL { ?ref pr:P1932 ?sourcePosition }
       }
