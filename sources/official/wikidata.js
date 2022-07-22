@@ -9,7 +9,7 @@ module.exports = function () {
   let curronly = meta.current_only ? "MINUS { ?ps pq:P582 [] }" : ""
 
   return `SELECT DISTINCT ?item ?itemLabel ?position ?positionLabel
-                 ?startDate ?endDate ?source (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
+                 ?startDate ?endDate ?source ?sourceDate (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
       SELECT DISTINCT ?item ?position ?startNode ?endNode ?ps
       WHERE {
@@ -73,6 +73,7 @@ module.exports = function () {
         ?ref pr:P854 ?source FILTER CONTAINS(STR(?source), 'kryeministri.rks-gov.net') .
         OPTIONAL { ?ref pr:P1810 ?sourceName }
         OPTIONAL { ?ref pr:P1932 ?sourcePosition }
+        OPTIONAL { ?ref pr:P813  ?sourceDate }
       }
       OPTIONAL { ?item rdfs:label ?labelName FILTER(LANG(?labelName) = "${lang}") }
       BIND(COALESCE(?sourceName, ?labelName) AS ?itemLabel)
@@ -82,5 +83,5 @@ module.exports = function () {
     }
 
     # ${new Date().toISOString()}
-    ORDER BY ?start ?end ?item ?psid`
+    ORDER BY ?sourceDate ?start ?end ?item ?psid`
 }
